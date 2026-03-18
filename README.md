@@ -2,7 +2,7 @@
 
 Landing page for 'Terms Long; Didn't Read' CI/CD pipeline Final Year Project as part of the Higher Diploma in Computer Science, SETU Waterford. <b></b>
 <p>
-  <a href="tldr-project.html" style="margin-right: 20px; font-weight: bold;">Project Repo</a>
+  <a href="tldr-project" style="margin-right: 20px; font-weight: bold;">Project Repo</a>
   <a href="proposal" style="margin-right: 10px;">Proposal</a>
   <a href="presentation" style="margin-right: 10px;">Presentation</a>
 </p>
