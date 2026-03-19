@@ -8,3 +8,4 @@ Landing page for 'Terms Long; Didn't Read' CI/CD pipeline Final Year Project as 
 ### 11402918
 
 More to come!
+<img width="1920" height="1080" alt="project-poster" src="https://github.com/user-attachments/assets/9e6dcca7-3d3c-4f20-8d05-2c438346b3be" />
